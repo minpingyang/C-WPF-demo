@@ -1,0 +1,15 @@
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\bin\Debug\MultiThreadPracaticeDemo.exe.config
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\bin\Debug\MultiThreadPracaticeDemo.exe
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\bin\Debug\MultiThreadPracaticeDemo.pdb
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.csprojAssemblyReference.cache
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MainWindow.g.cs
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\App.g.cs
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo_MarkupCompile.cache
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo_MarkupCompile.lref
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MainWindow.baml
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.g.resources
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.Properties.Resources.resources
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.csproj.GenerateResource.cache
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.csproj.CoreCompileInputs.cache
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.exe
+F:\Demo\MultiThreadPracaticeDemo\MultiThreadPracaticeDemo\obj\Debug\MultiThreadPracaticeDemo.pdb

@@ -1,0 +1,41 @@
+﻿<Window x:Class="MultiThreadPracaticeDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultiThreadPracaticeDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+        <GroupBox x:Name="Part_GroupBox" Header="双色球结果区"  FontSize="25" HorizontalAlignment="Left" Height="238" Margin="112,85,0,0" VerticalAlignment="Top" Width="534">
+            <Grid x:Name="Part_Grid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Orientation="Horizontal" Margin="30,30,30,24">
+                    <Label x:Name="RedLabel1" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Red"/>
+                    <Label x:Name="RedLabel2" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Red"/>
+                    <Label x:Name="RedLabel3" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Red"/>
+                    <Label x:Name="RedLabel4" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Red"/>
+                    <Label x:Name="RedLabel5" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Red"/>
+                    <Label x:Name="RedLabel6" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Red"/>
+                    <Label x:Name="BlueLabel" Margin="50,0,0,0" Content="00" FontSize="35"  Width="50" Height="50" Foreground="Blue"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1">
+                <Button x:Name="StartBtn" Width="80" Margin="80,0,0,0" Height="50" Content="开始" FontSize="35" HorizontalAlignment="Left" Click="StartBtn_Click"></Button>
+                <Button x:Name="StopBtn" Margin="200,0,0,0" Width="80" Height="50" Content="停止" FontSize="35" Click="StopBtn_Click"></Button>
+
+            </StackPanel>
+            
+                
+               
+                
+            </Grid>
+        
+    </GroupBox>
+        
+
+  
+</Window>
