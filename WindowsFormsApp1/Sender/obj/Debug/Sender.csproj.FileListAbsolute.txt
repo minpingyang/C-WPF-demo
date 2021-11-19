@@ -1,0 +1,9 @@
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\bin\Debug\Sender.exe.config
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\bin\Debug\Sender.exe
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\bin\Debug\Sender.pdb
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\obj\Debug\Sender.Form1.resources
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\obj\Debug\Sender.Properties.Resources.resources
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\obj\Debug\Sender.csproj.GenerateResource.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\obj\Debug\Sender.exe
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\Sender\obj\Debug\Sender.pdb

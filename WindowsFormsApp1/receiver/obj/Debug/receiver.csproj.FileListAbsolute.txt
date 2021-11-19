@@ -1,0 +1,9 @@
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\bin\Debug\receiver.exe.config
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\bin\Debug\receiver.exe
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\bin\Debug\receiver.pdb
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\obj\Debug\receiver.Form1.resources
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\obj\Debug\receiver.Properties.Resources.resources
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\obj\Debug\receiver.csproj.GenerateResource.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\obj\Debug\receiver.csproj.CoreCompileInputs.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\obj\Debug\receiver.exe
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\receiver\obj\Debug\receiver.pdb
