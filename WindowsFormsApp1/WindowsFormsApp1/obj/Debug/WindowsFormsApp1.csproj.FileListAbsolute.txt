@@ -8,3 +8,13 @@ D:\test\SourceCodeDemo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsA
 D:\test\SourceCodeDemo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\test\SourceCodeDemo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\test\SourceCodeDemo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\test\SourceCodeDemo\C-WPF-demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
